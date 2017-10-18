@@ -1,0 +1,17 @@
+commit 6ecc1d467004764b1594f74a3b5381e27d1455d0
+Author: Ivan <ivan.tavera19@gmail.com>
+Date:   Wed Oct 18 13:24:42 2017 -0500
+
+    se creo la estructura del html y se puso un titulo h1
+
+commit 63c7646193e07d6264c7ec7b059b88ab4e113fb9
+Author: Ivan <ivan.tavera19@gmail.com>
+Date:   Wed Oct 18 13:21:22 2017 -0500
+
+    se subieron las carpetas de estilos e imagenes con sus respectivos archivos
+
+commit f2f661558a01fac05354c195cc678012104490b4
+Author: Ivan <ivan.tavera19@gmail.com>
+Date:   Wed Oct 18 13:19:31 2017 -0500
+
+    primer commit
